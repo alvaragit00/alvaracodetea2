@@ -1,0 +1,23 @@
+{
+  "name": "alvaracodetea2",
+  "version": "1.0.0",
+  "description": "second tea scc project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvaragit00/alvaracodetea2.git"
+  },
+  "dependencies": {
+    "alvarateacomp": "1.0.0",
+    "tea-lessyk": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaragit00/alvaracodetea2/issues"
+  },
+  "homepage": "https://github.com/alvaragit00/alvaracodetea2#readme"
+}
