@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "alvarateacomp": "1.0.0",
-    "tea-lessyk": "1.0.0"
+    "tea-lessyk": "1.0.0",
+    "alandotetwo": "1.0.0"
   },
   "author": "",
   "license": "ISC",
